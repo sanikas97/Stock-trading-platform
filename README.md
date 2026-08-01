@@ -2,7 +2,7 @@
 
 A full-stack trading dashboard clone inspired by [Zerodha Kite](https://kite.zerodha.com/), built with the MERN stack (MongoDB, Express, React, Node.js). This project replicates the core UI/UX of a modern trading platform, including a live watchlist, holdings, positions, orders, and funds pages.
 
-![Dashboard Preview](./screenshot.png)
+![Dashboard Preview]("C:\Users\Dhanush Gowda.LAPTOP-MD1RU160\Downloads\sanika\SANIKA2.0\REACT PROJECTS\Zerodha-main\Zerodha-main\screenshot.png")
 
 ## Features
 
