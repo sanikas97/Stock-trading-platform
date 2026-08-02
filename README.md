@@ -28,19 +28,34 @@ All styling changes live in `dashboard/src/index.css` — no changes were made t
 
 ## Tech Stack
 
+**Languages**
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
 **Frontend**
 - React 18
 - React Router DOM
 - Material UI (MUI) + MUI Icons
+- Emotion (`@emotion/react`, `@emotion/styled` — MUI's styling engine)
 - Chart.js / react-chartjs-2
 - Axios
 - Google Fonts (Inter)
+- Create React App (`react-scripts`)
 
 **Backend**
 - Node.js
-- Express
-- MongoDB with Mongoose
-- dotenv, cors, body-parser
+- Express.js
+- MongoDB
+- Mongoose (ODM)
+- Passport.js, passport-local, passport-local-mongoose (authentication — scaffolded, not yet wired into routes)
+- dotenv
+- cors
+- body-parser
+
+**Dev Tools**
+- nodemon (auto-restart backend on file changes)
+- npm (package management)
 
 ## Project Structure
 
