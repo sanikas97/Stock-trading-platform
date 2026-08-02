@@ -1,4 +1,4 @@
-# Zerodha Clone (MERN Stack)
+# stock trading platform (MERN Stack)
 
 A full-stack trading dashboard clone inspired by [Zerodha Kite](https://kite.zerodha.com/), built with the MERN stack (MongoDB, Express, React, Node.js). This project replicates the core UI/UX of a modern trading platform, including a live watchlist, holdings, positions, orders, and funds pages — with a custom-designed interface built on top of the original layout.
 
